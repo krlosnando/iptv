@@ -1,94 +1,94 @@
 #EXTM3U
 
-#EXTINF:0,RCN Colombia HD Spanish
+#EXTINF:-1,RCN Colombia HD Spanish
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamiptv.m3u8
  
-#EXTINF:0,Telecinco HD Spanish
+#EXTINF:-1,Telecinco HD Spanish
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0,Telecinco Spanish
+#EXTINF:-1,Telecinco Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/617.m3u8
 
-#EXTINF:0,Cuatro HD Spanish
+#EXTINF:-1,Cuatro HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/616.m3u8
 
-#EXTINF:0,LaLiga Spanish
+#EXTINF:-1,LaLiga Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/581.m3u8
 
-#EXTINF:0,M Futbol Spanish
+#EXTINF:-1,M Futbol Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/575.m3u8
 
-#EXTINF:0,MTV HD Spanish
+#EXTINF:-1,MTV HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1773.ts
 
-#EXTINF:0,MTV HD Deutschland
+#EXTINF:-1,MTV HD Deutschland
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/465.m3u8
 
-#EXTINF:0,Nat Geo Wild HD English
+#EXTINF:-1,Nat Geo Wild HD English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/736.m3u8
 
-#EXTINF:0,A HD Spanish
+#EXTINF:-1,A HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/615.m3u8
 
-#EXTINF:0,AMC Spanish
+#EXTINF:-1,AMC Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/614.m3u8
 
-#EXTINF:0,7 Spanish
+#EXTINF:-1,7 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/611.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/HBO_3_HD.png/revision/latest?cb=20161213140527",HBO 3 HD English
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/HBO_3_HD.png",HBO 3 HD English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/565.m3u8
 
-#EXTINF:0,FOX Spanish
+#EXTINF:-1,FOX Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/608.m3u8
 
-#EXTINF:0,FOX life Spanish
+#EXTINF:-1,FOX life Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/601.m3u8
 
-#EXTINF:0,FOX life HD Spanish
+#EXTINF:-1,FOX life HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/567.m3u8
 
-#EXTINF:0,M DCine Spanish
+#EXTINF:-1,M DCine Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/607.m3u8
 
-#EXTINF:0,Comedy Central HD 1 Spanish
+#EXTINF:-1,Comedy Central HD 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/573.m3u8
 
-#EXTINF:0,Comedy Central HD 2 Spanish
+#EXTINF:-1,Comedy Central HD 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/572.m3u8
 
-#EXTINF:0,M Comedia 1 Spanish
+#EXTINF:-1,M Comedia 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/606.m3u8
 
-#EXTINF:0,M Comedia 2 Spanish
+#EXTINF:-1,M Comedia 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/580.m3u8
 
-#EXTINF:0,M Accion 1 Spanish
+#EXTINF:-1,M Accion 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/605.m3u8
 
-#EXTINF:0,M Accion 2 Spanish
+#EXTINF:-1,M Accion 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/576.m3u8
 
-#EXTINF:0,M Series Xtra Spanish
+#EXTINF:-1,M Series Xtra Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/568.m3u8
 
-#EXTINF:0,AXN HD Spanish
+#EXTINF:-1,AXN HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/579.m3u8
 
-#EXTINF:0,COSMO HD 1 English
+#EXTINF:-1,COSMO HD 1 English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/571.m3u8
 
-#EXTINF:0,COSMO HD 2 Spanish
+#EXTINF:-1,COSMO HD 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/570.m3u8
 
-#EXTINF:0,Hollywood English
+#EXTINF:-1,Hollywood English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/578.m3u8
 
-#EXTINF:0,Hollywood Spanish
+#EXTINF:-1,Hollywood Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/577.m3u8
 
-#EXTINF:0,Disney Junior Spanish
+#EXTINF:-1,Disney Junior Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/604.m3u8
 
-#EXTINF:0,Disney Junior Spanish
+#EXTINF:-1,Disney Junior Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/604.m3u8

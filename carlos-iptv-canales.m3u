@@ -1,22 +1,25 @@
 #EXTM3U
 
-#EXTINF:0,MTV HD
+#EXTINF:0,MTV HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1773.ts
 
 #EXTINF:0,MTV HD Deutschland
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/465.m3u8
 
-#EXTINF:0 group-title="Streams",Nat Geo Wild HD English
+#EXTINF:0,Nat Geo Wild HD English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/736.m3u8
 
-#EXTINF:0,RCN Colombia HD
+#EXTINF:0,RCN Colombia HD Spanish
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamiptv.m3u8
  
-#EXTINF:0,Telecinco HD Espana
+#EXTINF:0,Telecinco HD Spanish
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0,Telecinco Espana
+#EXTINF:0,Telecinco Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/617.m3u8
 
-#EXTINF:0,Cuatro HD Espana
+#EXTINF:0,Cuatro HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/616.m3u8
+
+#EXTINF:0,A HD Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/615.m3u8

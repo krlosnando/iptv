@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:0 group-title="Streams",Russia Today
+https://secure-streams.akamaized.net/rt/index2500.m3u8

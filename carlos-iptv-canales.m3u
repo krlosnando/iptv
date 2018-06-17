@@ -12,8 +12,11 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/736.m3u8
 #EXTINF:0,RCN Colombia HD
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamiptv.m3u8
  
-#EXTINF:0,Telecinco Espana HD
+#EXTINF:0,Telecinco HD Espana
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,Telecinco Espana
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/617.m3u8
+
+#EXTINF:0,Cuatro HD Espana
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/616.m3u8

@@ -3,19 +3,19 @@
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/rcn.png",RCN Colombia HD Spanish
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lhbbzJh.png",Telecinco HD Spanish
+#EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/media-tele5-hd.jpg",Telecinco HD Spanish
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf28b5tvao4T5w9vL5e-OJ6fFYC8JcV3RksnWcgCyKUV4Fj1uT",Telecinco Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/617.m3u8
 
-#EXTINF:-1,Cuatro HD Spanish
+#EXTINF:-1 tvg-logo="http://static.programacion-tdt.com/imgAPP/Cuatro.min.png",Cuatro HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/616.m3u8
 
-#EXTINF:-1,LaLiga Spanish
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/545609647/4c70517bdd153664bcd2aecd20f19dcd?v=1",LaLiga Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/581.m3u8
 
-#EXTINF:-1,M Futbol Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png",M Futbol Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/575.m3u8
 
 #EXTINF:-1,MTV HD Spanish

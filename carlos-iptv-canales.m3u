@@ -15,6 +15,9 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/616.m3u8
 #EXTINF:0,LaLiga Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/581.m3u8
 
+#EXTINF:0,M Futbol Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/575.m3u8
+
 #EXTINF:0,MTV HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1773.ts
 
@@ -42,6 +45,12 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/601.m3u8
 #EXTINF:0,M DCine Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/607.m3u8
 
+#EXTINF:0,Comedy Central HD 1 Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/573.m3u8
+
+#EXTINF:0,Comedy Central HD 2 Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/572.m3u8
+
 #EXTINF:0,M Comedia 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/606.m3u8
 
@@ -56,6 +65,9 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/576.m3u8
 
 #EXTINF:0,AXN HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/579.m3u8
+
+#EXTINF:0,COSMO HD Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/571.m3u8
 
 #EXTINF:0,Hollywood English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/578.m3u8

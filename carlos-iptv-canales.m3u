@@ -14,3 +14,6 @@ http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamip
  
 #EXTINF:0,Telecinco Espana HD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,Telecinco Espana
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/617.m3u8

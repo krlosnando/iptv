@@ -27,71 +27,72 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/465.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png/revision/latest?cb=20150314182728",Nat Geo Wild HD English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/736.m3u8
 
-#EXTINF:-1,A HD Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Achannel.svg/1200px-Achannel.svg.png",A HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/615.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.atvc.ru/media/logo/channel/logo-amc.png",AMC Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/614.m3u8
 
-#EXTINF:-1,7 Spanish
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319209.png",7 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/611.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.maxicom.cz/img-programy/hbo3hd.png",HBO 3 HD English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/565.m3u8
 
-#EXTINF:-1,FOX Spanish
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png/revision/latest?cb=20140417072610",FOX Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/608.m3u8
 
-#EXTINF:-1,FOX life Spanish
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw11TM74vMrT1rbR9tzCw6uBwyqP8pD-v6NEnrKT0tUtgAS8s_",FOX life Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/601.m3u8
 
-#EXTINF:-1,FOX life HD Spanish
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOX_Life_HD.jpg/revision/latest?cb=20101222165210",FOX life HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/567.m3u8
 
-#EXTINF:-1,M DCine Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",M DCine Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/607.m3u8
 
-#EXTINF:-1,Comedy Central HD 1 Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Comedy_central_hd.png",Comedy Central HD 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/573.m3u8
 
-#EXTINF:-1,Comedy Central HD 2 Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Comedy_central_hd.png",Comedy Central HD 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/572.m3u8
 
-#EXTINF:-1,M Comedia 1 Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Movistar_Comedia.svg",M Comedia 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/606.m3u8
 
-#EXTINF:-1,M Comedia 2 Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Movistar_Comedia.svg",M Comedia 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/580.m3u8
 
-#EXTINF:-1,M Accion 1 Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png",M Accion 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/605.m3u8
 
-#EXTINF:-1,M Accion 2 Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png",M Accion 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/576.m3u8
 
-#EXTINF:-1,M Series Xtra Spanish
+#EXTINF:-1 tvg-logo="http://xn--fotocit-hya.com/M.Series_Xtra.png",M Series Xtra Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/568.m3u8
 
-#EXTINF:-1,AXN HD Spanish
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/AXN_HD.png/revision/latest?cb=20161214222909",AXN HD Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/579.m3u8
 
-#EXTINF:-1,COSMO HD 1 English
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_O_tLcnJQXnkRLmpkjJZS73m_lPK2zGMRVId37t4A-2e6oZGB",COSMO HD 1 English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/571.m3u8
 
-#EXTINF:-1,COSMO HD 2 Spanish
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_O_tLcnJQXnkRLmpkjJZS73m_lPK2zGMRVId37t4A-2e6oZGB",COSMO HD 2 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/570.m3u8
 
-#EXTINF:-1,Hollywood English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png",Hollywood English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/578.m3u8
 
-#EXTINF:-1,Hollywood Spanish
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png",Hollywood Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/577.m3u8
 
-#EXTINF:-1,Disney Junior Spanish
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch236.jpg",Disney Junior Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/604.m3u8
 
-#EXTINF:-1,Disney Junior Spanish
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch236.jpg",Disney Junior Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/604.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fashiontelevision.com/images/v2/logo-about.png",Fashion Television English
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/328.m3u8
+

@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,RCN Colombia HD Spanish
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/rcn.png",RCN Colombia HD Spanish
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamiptv.m3u8
  
 #EXTINF:-1,Telecinco HD Spanish

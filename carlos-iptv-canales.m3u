@@ -42,11 +42,23 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/601.m3u8
 #EXTINF:0,M DCine Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/607.m3u8
 
-#EXTINF:0,M Comedia Spanish
+#EXTINF:0,M Comedia 1 Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/606.m3u8
+
+#EXTINF:0,M Comedia 2 Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/580.m3u8
 
 #EXTINF:0,M Accion Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/605.m3u8
+
+#EXTINF:0,AXN HD Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/579.m3u8
+
+#EXTINF:0,Hollywood English
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/578.m3u8
+
+#EXTINF:0,Hollywood Spanish
+http://tvpremiumhd.club/lista-gratuita/111517/tv/on/577.m3u8
 
 #EXTINF:0,Disney Junior Spanish
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/604.m3u8

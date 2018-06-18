@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.stream2watch.org/images/streams/31/600x400/1459017239408.png",ESPN 2 (Spanish) (ts)
+http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1785.ts
+
+#EXTINF:-1 tvg-logo="http://image.cdnllnwnl.xosnetwork.com/pics33/640/UK/UKJKRQCOKMNNITI.20160313135747.png",ESPN 3 (Spanish) (ts)
+http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1784.ts
+
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/rcn.png",RCN Colombia (HD) (Spanish)
 http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?xtreamiptv.m3u8
 
@@ -17,6 +23,9 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/581.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png",M Futbol (Spanish)
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/575.m3u8
+
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/10/How-to-Watch-History-Channel-outside-USA-with-VPN.jpg",History (Spanish) (ts)
+http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1780.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png",E! (Spanish) (ts)
 http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1787.ts

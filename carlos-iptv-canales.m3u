@@ -75,8 +75,11 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/605.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png",M Accion 2 (Spanish)
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/576.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4ouffE.png",TNT (Spanish)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4ouffE.png",TNT 1 (Spanish)
 http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1809.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4ouffE.png",TNT 2 (Spanish)
+http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1795.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/c/c2/Warner-azul.png/revision/latest?cb=20160816150221",Warner Channel (Spanish) (ts)
 http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1796.ts

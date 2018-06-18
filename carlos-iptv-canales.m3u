@@ -63,6 +63,9 @@ http://tvpremiumhd.club/lista-gratuita/111517/tv/on/573.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Comedy_central_hd.png",Comedy Central 2 (HD) (Spanish)
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/572.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Comedy_central_hd.png",Comedy Central 3 (Spanish) (ts)
+http://tvpremiumhd.club/lista-gratuita/111517/tv/v/1788.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Movistar_Comedia.svg",M Comedia 1 (Spanish)
 http://tvpremiumhd.club/lista-gratuita/111517/tv/on/606.m3u8
 

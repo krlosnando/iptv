@@ -40,6 +40,18 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82058.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO. [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY TURBO. [HD]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34315.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="USA : Discovery Family HD 1080P-" tvg-logo="" group-title="USA PREMIUM",USA : Discovery Family HD 1080P-
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/72522.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCI [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY SCI [HD]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34317.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA : Discovery Science HD" tvg-logo="" group-title="USA PREMIUM",USA : Discovery Science HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/72672.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA : Discovery Science HD 1080P-" tvg-logo="" group-title="USA PREMIUM",USA : Discovery Science HD 1080P-
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/72521.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery World Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery World Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82045.ts
 

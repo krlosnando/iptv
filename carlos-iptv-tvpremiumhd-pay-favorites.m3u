@@ -7,6 +7,9 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Miami" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="RUSSIA 2018",USA | Telemundo Miami
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82735.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="E! [HD]" tvg-logo="" group-title="MEXICO",E! [HD]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34308.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75914.ts
 
@@ -120,6 +123,60 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82149.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO:Nickelodeon Full HD" tvg-logo="" group-title="INFANTILES",CO:Nickelodeon Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82148.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy HD" tvg-logo="https://images7.alphacoders.com/475/475500.jpg" group-title="24/7 - CINEMA",24/7 Family Guy HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17029.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama Full HD" tvg-logo="https://seriesblanco.com/files/noticias/229.jpg" group-title="24/7 - CINEMA",24/7 Futurama Full HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17000.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barbie Tv HD 24/7" tvg-logo="https://i.ytimg.com/vi/s2SiIVALJVg/maxresdefault.jpg" group-title="24/7 - CINEMA",24/7 Barbie Tv HD 24/7
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/18217.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja  HD" tvg-logo="http://uscdn02.mundotkm.com/2016/10/bobesponja-e1476394824863.jpg" group-title="24/7 - CINEMA",24/7 Bob Esponja  HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17002.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Canal Disney  HD" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/disney-channel-hd.png" group-title="24/7 - CINEMA",24/7 Canal Disney  HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17036.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Simpsons HD" tvg-logo="http://4.bp.blogspot.com/-mDMSztG9C_M/VjkK8uXZ4tI/AAAAAAAAB9c/WfduHo6veIE/s1600/the-simpsons-family.jpg" group-title="24/7 - CINEMA",24/7 The Simpsons HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17013.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom and Jerry HD" tvg-logo="https://i.ytimg.com/vi/TMOrz8V_hSI/hqdefault.jpg" group-title="24/7 - CINEMA",24/7 Tom and Jerry HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17007.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto SD" tvg-logo="http://www.zonarutoppuden.com/wp-content/uploads/2015/12/naruto-pequeno-espanol-latino.jpg" group-title="24/7 - CINEMA",24/7 Naruto SD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/16999.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT HD 24/7" tvg-logo="https://www.supergoku.com/wp-content/uploads/2016/10/dragon_ball_gt_genzai__fan_made__by_legend_tony980-d78dn2u.png" group-title="24/7 - CINEMA",24/7 Dragon Ball GT HD 24/7
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/18219.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball HD" tvg-logo="https://images.alphacoders.com/679/thumb-350-679755.png" group-title="24/7 - CINEMA",24/7 Dragon Ball HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17034.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super Full HD" tvg-logo="https://4.bp.blogspot.com/-FhvAJn-LBXM/WYau8bQEX_I/AAAAAAAAAns/v1YKWmr3U80LX_cm96gUXUBc_Szk3ewFgCLcBGAs/s1600/dragon-ball-super.jpg" group-title="24/7 - CINEMA",24/7 Dragon Ball Super Full HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17003.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z HD" tvg-logo="http://diceandtiles.com/wp-content/uploads/2017/05/Dragon-Ball-Z.jpg" group-title="24/7 - CINEMA",24/7 Dragon Ball Z HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17033.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ HD" tvg-logo="http://mxcdn02.mundotkm.com/2017/04/ranma-y-medio-2.jpg" group-title="24/7 - CINEMA",24/7 Ranma ½ HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17018.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia P. Luche SD" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/e2/4f/b4/e24fb4f564c3f438717eae067a558bb8.jpg" group-title="24/7 - CINEMA",24/7 La familia P. Luche SD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17026.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito Tv SD 24/7" tvg-logo="https://i.ytimg.com/vi/vBENo6JEfbM/maxresdefault.jpg" group-title="24/7 - CINEMA",24/7 Chespirito Tv SD 24/7
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/18222.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin" tvg-logo="http://i.tvynovelas.com/dam/mx/Notas/17/05/23/el-chapulin-colorado-home.jpg.imgo.jpg" group-title="24/7 - CINEMA",24/7 El Chapulin
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/18218.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulín Colorado SD" tvg-logo="https://http2.mlstatic.com/el-chapulin-colorado-180-capitulos-serie-completa-D_NQ_NP_22712-MLA20236177828_012015-F.jpg" group-title="24/7 - CINEMA",24/7 El Chapulín Colorado SD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17032.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho SD" tvg-logo="https://ep01.epimg.net/internacional/imagenes/2016/06/20/america/1466405814_792721_1466412320_noticia_normal.jpg" group-title="24/7 - CINEMA",24/7 El Chavo del Ocho SD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17031.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DIREC TV SPORT [1080]" tvg-logo="http://www.forosecuador.ec/imgfe/directvsports.png" group-title="DEPORTE [720/1080]",DIREC TV SPORT [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/21830.ts

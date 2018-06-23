@@ -25,6 +25,15 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34274.ts
 #EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLASS [HD]" tvg-logo="" group-title="MEXICO",LAS ESTRELLASS [HD]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34213.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV SPORT [1080]" tvg-logo="http://www.forosecuador.ec/imgfe/directvsports.png" group-title="DEPORTE [720/1080]",DIREC TV SPORT [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/21830.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MUN-DIREC TV [1080]" tvg-logo="https://http2.mlstatic.com/kit-satelital-directv-prepago-hd-plan-oro-full-premium-vnz-D_NQ_NP_797814-MCO26719453484_012018-F.jpg" group-title="RUSSIA 2018",MUN-DIREC TV [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82679.ts
+
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TYC SPORT [720]" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="ARGENTINA",ARG-TYC SPORT [720]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82108.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="E! [HD]" tvg-logo="" group-title="MEXICO",E! [HD]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34308.ts
 
@@ -204,15 +213,6 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17032.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho SD" tvg-logo="https://ep01.epimg.net/internacional/imagenes/2016/06/20/america/1466405814_792721_1466412320_noticia_normal.jpg" group-title="24/7 - CINEMA",24/7 El Chavo del Ocho SD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17031.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DIREC TV SPORT [1080]" tvg-logo="http://www.forosecuador.ec/imgfe/directvsports.png" group-title="DEPORTE [720/1080]",DIREC TV SPORT [1080]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/21830.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MUN-DIREC TV [1080]" tvg-logo="https://http2.mlstatic.com/kit-satelital-directv-prepago-hd-plan-oro-full-premium-vnz-D_NQ_NP_797814-MCO26719453484_012018-F.jpg" group-title="RUSSIA 2018",MUN-DIREC TV [1080]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82679.ts
-
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TYC SPORT [720]" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="ARGENTINA",ARG-TYC SPORT [720]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82108.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Latin TV Accion 4K" tvg-logo="http://185.152.66.151/logos/accion.png" group-title="CANALES 4K",Latin TV Accion 4K
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75956.ts

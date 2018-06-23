@@ -25,6 +25,15 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34274.ts
 #EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLASS [HD]" tvg-logo="" group-title="MEXICO",LAS ESTRELLASS [HD]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34213.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="MUN-TVN [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="RUSSIA 2018",MUN-TVN [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82691.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MUN-CANAL 13 [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_13i.png" group-title="RUSSIA 2018",MUN-CANAL 13 [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82694.ts
+
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHI-CANAL 13 [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",CHI-CANAL 13 [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82156.ts
+
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="MUN-TELECINCO [720]" tvg-logo="http://www.esacademic.com/pictures/eswiki/84/Telecinco_HDTV.png" group-title="RUSSIA 2018",MUN-TELECINCO [720]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82724.ts
 

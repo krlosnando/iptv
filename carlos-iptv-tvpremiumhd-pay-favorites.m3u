@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="http://tv.latintvweb.com:8000/images/293660_movie_backdrop_4.jpg" group-title="VOD-CIENCIA FICCION",Deadpool
 http://tv.latintvweb.com:8000/movie/krlosnando2018/krlosnando2018/82647.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 4k" tvg-logo="http://tv.latintvweb.com:8000/images/13448_movie_backdrop_4.jpg" group-title="VOD-4K",Deadpool 4k
+http://tv.latintvweb.com:8000/movie/krlosnando2018/krlosnando2018/82573.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central Full HD [Dual audio]" tvg-logo="" group-title="CINE Y SERIES",Comedy Central Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
 

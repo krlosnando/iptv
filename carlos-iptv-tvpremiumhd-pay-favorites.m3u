@@ -10,9 +10,6 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82735.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: Animal Planet Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Animal Planet Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82087.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Claro Full HD" tvg-logo="" group-title="CINE Y SERIES",CO: Canal Claro Full HD
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82085.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75914.ts
 
@@ -21,6 +18,9 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34322.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Channel Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Channel Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82081.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO:Disney Channel Full HD" tvg-logo="" group-title="INFANTILES",CO:Disney Channel Full HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82152.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health Full HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Home and Health Full HD [Dual Audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75920.ts
@@ -34,6 +34,9 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75916.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Kids Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Kids Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82063.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CO:Discovery Kids Full HD" tvg-logo="" group-title="INFANTILES",CO:Discovery Kids Full HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82154.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Theater Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Theater Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82066.ts
 
@@ -45,6 +48,12 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82058.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery World Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery World Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82045.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Investigation Discovery Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Investigation Discovery Full HD
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82037.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery Full HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Investigation Discovery Full HD [Dual Audio]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75919.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO: Fox Full HD" tvg-logo="" group-title="CINE Y SERIES",CO: Fox Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82047.ts
@@ -73,9 +82,6 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82043.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: H2" tvg-logo="" group-title="DOCUMENTALES",CO: H2
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82141.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CO: Investigation Discovery Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Investigation Discovery Full HD
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82037.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="CO: Max Prime Full HD" tvg-logo="" group-title="CINE Y SERIES",CO: Max Prime Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82035.ts
 
@@ -84,12 +90,6 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82033.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO:Cartoon Network Full HD" tvg-logo="" group-title="INFANTILES",CO:Cartoon Network Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82153.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CO:Discovery Kids Full HD" tvg-logo="" group-title="INFANTILES",CO:Discovery Kids Full HD
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82154.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CO:Disney Channel Full HD" tvg-logo="" group-title="INFANTILES",CO:Disney Channel Full HD
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82152.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO:Natgeo Kids Full HD" tvg-logo="" group-title="INFANTILES",CO:Natgeo Kids Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82151.ts
@@ -102,6 +102,15 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82149.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO:Nickelodeon Full HD" tvg-logo="" group-title="INFANTILES",CO:Nickelodeon Full HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82148.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV SPORT [1080]" tvg-logo="http://www.forosecuador.ec/imgfe/directvsports.png" group-title="DEPORTE [720/1080]",DIREC TV SPORT [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/21830.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MUN-DIREC TV [1080]" tvg-logo="https://http2.mlstatic.com/kit-satelital-directv-prepago-hd-plan-oro-full-premium-vnz-D_NQ_NP_797814-MCO26719453484_012018-F.jpg" group-title="RUSSIA 2018",MUN-DIREC TV [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82679.ts
+
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TYC SPORT [720]" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="ARGENTINA",ARG-TYC SPORT [720]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82108.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Latin TV Accion 4K" tvg-logo="http://185.152.66.151/logos/accion.png" group-title="CANALES 4K",Latin TV Accion 4K
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75956.ts
@@ -129,12 +138,3 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82432.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Latin TV Romance 4K" tvg-logo="http://185.152.66.151/logos/romance.png" group-title="CANALES 4K",Latin TV Romance 4K
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82745.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DIREC TV SPORT [1080]" tvg-logo="http://www.forosecuador.ec/imgfe/directvsports.png" group-title="DEPORTE [720/1080]",DIREC TV SPORT [1080]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/21830.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MUN-DIREC TV [1080]" tvg-logo="https://http2.mlstatic.com/kit-satelital-directv-prepago-hd-plan-oro-full-premium-vnz-D_NQ_NP_797814-MCO26719453484_012018-F.jpg" group-title="RUSSIA 2018",MUN-DIREC TV [1080]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82679.ts
-
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TYC SPORT [720]" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="ARGENTINA",ARG-TYC SPORT [720]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82108.ts

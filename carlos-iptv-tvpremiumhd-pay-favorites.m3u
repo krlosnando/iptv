@@ -1,0 +1,44 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Full HD [Dual audio]" tvg-logo="" group-title="CINE Y SERIES",Comedy Central Full HD [Dual audio]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Miami" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="RUSSIA 2018",USA | Telemundo Miami
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82735.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Accion 4K" tvg-logo="http://185.152.66.151/logos/accion.png" group-title="CANALES 4K",Latin TV Accion 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75956.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Ciencia Ficcion 4K" tvg-logo="http://185.152.66.151/logos/cienciaficcion.png" group-title="CANALES 4K",Latin TV Ciencia Ficcion 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/81978.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Comedia 4K" tvg-logo="http://185.152.66.151/logos/comedia.png" group-title="CANALES 4K",Latin TV Comedia 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82008.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Infantil 4K" tvg-logo="http://185.152.66.151/logos/infantil.png" group-title="CANALES 4K",Latin TV Infantil 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/80663.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Marvel 4K" tvg-logo="http://185.152.66.151logos/marvel.png" group-title="CANALES 4K",Latin TV Marvel 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82176.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Terror 4K" tvg-logo="http://185.152.66.151/logos/terror.png" group-title="CANALES 4K",Latin TV Terror 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82392.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV DC Comics 4K" tvg-logo="http://185.152.66.151/logos/dccomic.png" group-title="CANALES 4K",Latin TV DC Comics 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82431.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Drama 4K" tvg-logo="http://185.152.66.151/logos/drama.png" group-title="CANALES 4K",Latin TV Drama 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82432.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin TV Romance 4K" tvg-logo="http://185.152.66.151/logos/romance.png" group-title="CANALES 4K",Latin TV Romance 4K
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82745.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV SPORT [1080]" tvg-logo="http://www.forosecuador.ec/imgfe/directvsports.png" group-title="DEPORTE [720/1080]",DIREC TV SPORT [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/21830.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MUN-DIREC TV [1080]" tvg-logo="https://http2.mlstatic.com/kit-satelital-directv-prepago-hd-plan-oro-full-premium-vnz-D_NQ_NP_797814-MCO26719453484_012018-F.jpg" group-title="RUSSIA 2018",MUN-DIREC TV [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82679.ts
+
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TYC SPORT [720]" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="ARGENTINA",ARG-TYC SPORT [720]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/82108.ts

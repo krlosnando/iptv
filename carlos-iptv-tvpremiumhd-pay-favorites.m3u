@@ -73,10 +73,7 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34308.ts
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="HQ Mtv" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",HQ Mtv
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/15114.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV [HD]" tvg-logo="https://www.edgemusic.com/news/wp-content/uploads/2018/01/MTV_News_Large_Logo.jpg" group-title="MUSICA",MTV NEWS [HD]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/81997.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV NEWS HD" tvg-logo="" group-title="MUSICA",MUSIC:MTV NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV [HD]" tvg-logo="" group-title="MUSICA",MTV [HD]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/84071.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV LIVE [HD]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58fcb508ca676_MTVLiveHDlogo2017.png.01159720f1a475e19ec3347f728b11e4.png" group-title="MUSICA",MTV LIVE [HD]

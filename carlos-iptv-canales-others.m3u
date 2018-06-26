@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" ,Canal 1
+#EXTINF:-1 tvg-name="Canal 1" tvg-logo=",Canal 1
 http://stb.first-class-portal.com:80/live/RPsyVH9Zc9/7ssMnYc0oK/13604.ts
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Brazz_1" tvg-logo="" group-title="CANALES XXX",XXX:Brazz_1
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/33891.ts

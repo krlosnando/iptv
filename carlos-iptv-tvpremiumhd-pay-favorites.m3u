@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central Full HD [Dual audio]" tvg-logo="" group-title="CINE Y SERIES",Comedy Central Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
 
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TruTV [1080]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="DOCUMENTALES",TruTV [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17048.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TruTV [1080] [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",TruTV [1080] [Dual audio]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75913.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TruTV [720]" tvg-logo="" group-title="CINE Y SERIES",TruTV [720]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75879.ts
+
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A/E Mundo Full HD [Dual audio]" tvg-logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m.png" group-title="CINE Y SERIES",A/E Mundo Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75905.ts
 

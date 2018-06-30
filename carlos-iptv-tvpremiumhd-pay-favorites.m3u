@@ -6,11 +6,14 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
 #EXTINF:-1 tvg-id="" tvg-name="CH. Comedy Central [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png" group-title="CINE Y SERIES",CH. Comedy Central [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14858.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CH. Sony [1080] [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="CINE Y SERIES",CH. Sony [1080] [Dual audio]
+#EXTINF:-1 tvg-id="" tvg-name="CH. Sony MX [1080] [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="CINE Y SERIES",CH. Sony MX [1080] [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75907.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CH. Sony [1080] [Subtitles]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="CINE Y SERIES",CH. Sony [1080] [Subtitles]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14856.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. Sony [1080] [Subtitles]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="CINE Y SERIES",CH. Sony [1080] [Subtitles]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34256.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CH. TruTV [1080]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="DOCUMENTALES",CH. TruTV [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17048.ts

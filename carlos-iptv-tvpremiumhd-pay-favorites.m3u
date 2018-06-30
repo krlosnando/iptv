@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central Full HD [Dual audio]" tvg-logo="" group-title="CINE Y SERIES",Comedy Central Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel: TruTV [1080]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="DOCUMENTALES",Channel: TruTV [1080]
+#EXTINF:-1 tvg-id="" tvg-name="CH. TruTV [1080]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="DOCUMENTALES",CH. TruTV [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17048.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel: TruTV [1080] [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Channel: TruTV [1080] [Dual audio]
+#EXTINF:-1 tvg-id="" tvg-name="CH. TruTV [1080] [Dual audio]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="DOCUMENTALES",CH. TruTV [1080] [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75913.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel: TruTV [720]" tvg-logo="" group-title="CINE Y SERIES",Channel: TruTV [720]
+#EXTINF:-1 tvg-id="" tvg-name="CH. TruTV [720]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="CINE Y SERIES",CH. TruTV [720]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75879.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="A/E Mundo Full HD [Dual audio]" tvg-logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m.png" group-title="CINE Y SERIES",A/E Mundo Full HD [Dual audio]
@@ -27,16 +27,16 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14872.ts
 #EXTINF:-1 tvg-id="" tvg-name="E! [HD]" tvg-logo="" group-title="MEXICO",E! [HD]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34308.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel: MTV [1080]" tvg-logo="" group-title="MUSICA",Channel: MTV [1080]
+#EXTINF:-1 tvg-id="" tvg-name="CH. MTV [1080]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",CH. MTV [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/84071.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel: MTV [360]" tvg-logo="" group-title="MUSICA",Channel: MTV [360]
+#EXTINF:-1 tvg-id="" tvg-name="CH. MTV [360]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",CH. MTV [360]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/15114.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58fcb508ca676_MTVLiveHDlogo2017.png.01159720f1a475e19ec3347f728b11e4.png" group-title="MUSICA",MTV LIVE [1080]
+#EXTINF:-1 tvg-id="" tvg-name="CH. MTV LIVE [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58fcb508ca676_MTVLiveHDlogo2017.png.01159720f1a475e19ec3347f728b11e4.png" group-title="MUSICA",CH. MTV LIVE [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/81998.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA: MTV [1080]" tvg-logo="" group-title="USA PREMIUM",USA: MTV [1080]
+#EXTINF:-1 tvg-id="" tvg-name="CH. USA: MTV [1080]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="USA PREMIUM",CH. USA: MTV [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/72459.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel Full HD [Dual audio]

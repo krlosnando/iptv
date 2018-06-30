@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Full HD [Dual audio]" tvg-logo="" group-title="CINE Y SERIES",Comedy Central Full HD [Dual audio]
+#EXTINF:-1 tvg-id="" tvg-name="CH. Comedy Central [1080] [Dual audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png" group-title="CINE Y SERIES",CH. Comedy Central [1080] [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. Comedy Central [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png" group-title="CINE Y SERIES",CH. Comedy Central [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14858.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CH. Sony [1080] [Dual audio]" tvg-logo="http://blog.cablevision.net.mx/wp-content/uploads/2011/06/sony.jpg" group-title="CINE Y SERIES",CH. Sony [1080] [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75907.ts

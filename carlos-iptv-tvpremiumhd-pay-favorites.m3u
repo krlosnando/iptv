@@ -264,6 +264,9 @@ http://tv.latintvweb.com:8000/movie/krlosnando2018/krlosnando2018/82647.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 4k" tvg-logo="http://tv.latintvweb.com:8000/images/13448_movie_backdrop_4.jpg" group-title="VOD-4K",Deadpool 4k
 http://tv.latintvweb.com:8000/movie/krlosnando2018/krlosnando2018/82573.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="http://tv.latintvweb.com:8000/images/to0spRl1CMDvyUbOnbb4fTk3VAd_small.jpg" group-title="VOD ESTRENO CAM",Deadpool 2
+http://tv.latintvweb.com:8000/movie/krlosnando2018/krlosnando2018/81919.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy HD" tvg-logo="https://images7.alphacoders.com/475/475500.jpg" group-title="24/7 - CINEMA",24/7 Family Guy HD
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/17029.ts
 

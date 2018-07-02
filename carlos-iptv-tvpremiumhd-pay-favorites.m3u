@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! 1 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 1 (1080)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14904.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! 2 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 2 (1080)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/83982.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! 3 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 3 (1080) (Dual audio)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34308.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! (480)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! (480)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/83956.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. MTV [1080]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",CH. MTV [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/84071.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. MTV [360]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",CH. MTV [360]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/85305.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. MTV LIVE [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58fcb508ca676_MTVLiveHDlogo2017.png.01159720f1a475e19ec3347f728b11e4.png" group-title="MUSICA",CH. MTV LIVE [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/81998.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. USA: MTV [1080]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="USA PREMIUM",CH. USA: MTV [1080]
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/72459.ts
+
+#EXTINF:-1 channel-id="467" tvg-id="CH. TBS (480)" tvg-logo="http://cdn.collider.com/wp-content/uploads/2017/05/tbs-logo.png" channel-id="TBS [HD]" group-title="CINE Y SERIES",CH. TBS (480)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34250.ts
+
+#EXTINF:-1 channel-id="507" tvg-id="CH. TBS (270)" tvg-logo="http://cdn.collider.com/wp-content/uploads/2017/05/tbs-logo.png" channel-id="CH. TBS (270)" group-title="CINE Y SERIES",CH. TBS (270)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14982.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CH. Comedy Central [1080] [Dual audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png" group-title="CINE Y SERIES",CH. Comedy Central [1080] [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75921.ts
 
@@ -35,30 +65,6 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75912.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CH. History (1080)" tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="DOCUMENTALES",CH. History (1080)
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14872.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. E! 1 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 1 (1080)
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14904.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. E! 2 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 2 (1080)
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/83982.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. E! 3 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 3 (1080) (Dual audio)
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34308.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. E! (480)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! (480)
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/83956.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. MTV [1080]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",CH. MTV [1080]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/84071.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. MTV [360]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",CH. MTV [360]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/85305.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. MTV LIVE [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58fcb508ca676_MTVLiveHDlogo2017.png.01159720f1a475e19ec3347f728b11e4.png" group-title="MUSICA",CH. MTV LIVE [1080]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/81998.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CH. USA: MTV [1080]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="USA PREMIUM",CH. USA: MTV [1080]
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/72459.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Channel Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75914.ts

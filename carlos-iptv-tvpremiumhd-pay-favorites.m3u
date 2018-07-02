@@ -36,11 +36,17 @@ http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/75912.ts
 #EXTINF:-1 tvg-id="" tvg-name="CH. History (1080)" tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="DOCUMENTALES",CH. History (1080)
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14872.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CH. E! (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! (1080)
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! 1 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 1 (1080)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/14904.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! 2 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 2 (1080)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/83982.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! 3 (1080)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! 3 (1080) (Dual audio)
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/34308.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CH. E! (360)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! (360)
-http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/15057.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH. E! (480)" tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",CH. E! (360)
+http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/83956.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CH. MTV [1080]" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",CH. MTV [1080]
 http://tv.latintvweb.com:8000/live/krlosnando2018/krlosnando2018/84071.ts

@@ -1,4 +1,59 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV NEWS HD" tvg-logo="" group-title="MUSICA",MUSIC:MTV NEWS HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84071.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV (SP)" tvg-logo="" group-title="MUSICA",MUSIC:MTV (SP)
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84053.ts
+
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="Mtv. (1080)" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/08/MTV-HD.jpg" group-title="MUSICA",Mtv. (1080)
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85515.ts
+
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV [SD]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/mtv.jpg" group-title="MUSICA",MTV [SD]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85305.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV (FR)" tvg-logo="" group-title="MUSICA",MUSIC:MTV (FR)
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84054.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery TLC Full HD [Dual audio]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75915.ts
+
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="Discovery TLC(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e0302d9792e_TLCDiscoveryhd.png.382a550d67992c79543aef37500783cb.png" group-title="DOCUMENTALES",Discovery TLC(1080).
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14875.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery TLC Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery TLC Full HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82058.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery TLC HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery TLC HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82065.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery TLC HD [Dual audio]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75876.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC [HD]" tvg-logo="" group-title="DOCUMENTALES",TLC [HD]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34243.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC.[HD]" tvg-logo="" group-title="DOCUMENTALES",TLC.[HD]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34242.ts
+
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DiscoveryTlc" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="DOCUMENTALES",DiscoveryTlc
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15019.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA : TLC HD" tvg-logo="" group-title="USA PREMIUM",USA : TLC HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72602.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TLC HD" tvg-logo="" group-title="CANADA",CAN-TLC HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/86432.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TLC" tvg-logo="" group-title="UK",UK: TLC
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16744.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TLC   1" tvg-logo="" group-title="UK",UK: TLC   1
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16745.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TLC   2" tvg-logo="" group-title="UK",UK: TLC   2
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16746.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="-----PPV-----" tvg-logo="https://palmerparkvelo.files.wordpress.com/2016/12/ppv-logo.png" group-title="PPV",-----PPV-----
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/23386.ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 [1080]" tvg-logo="http://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2.png" group-title="PPV",PPV 1 [1080]
@@ -513,10 +568,8 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14877.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75917.ts
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater(1080)." tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES",Discovery Theater(1080).
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14876.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery TLC Full HD [Dual audio]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75915.ts
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="Discovery TLC(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e0302d9792e_TLCDiscoveryhd.png.382a550d67992c79543aef37500783cb.png" group-title="DOCUMENTALES",Discovery TLC(1080).
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14875.ts
+
+
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="Discovery Turbo(1080)." tvg-logo="http://2.bp.blogspot.com/-djQyUJN9Gfw/VGdEgyhjgtI/AAAAAAAACQ8/DXGTUbzjYHw/s1600/hd.png" group-title="DOCUMENTALES",Discovery Turbo(1080).
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14874.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery World Full HD [Dual audio]
@@ -567,10 +620,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82064.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82066.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Theater HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Theater HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82067.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery TLC Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery TLC Full HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82058.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery TLC HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery TLC HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82065.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery World Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery World Full HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82045.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery World HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery World HD
@@ -719,8 +769,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34317.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34316.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Theater HD [Dual audio]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75875.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery TLC HD [Dual audio]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75876.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO. [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY TURBO. [HD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34315.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY WORLD [HD]
@@ -889,10 +938,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34251.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34250.ts
 #EXTINF:-1 tvg-id="" tvg-name="TIIN [HD]" tvg-logo="" group-title="INFANTILES",TIIN [HD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34244.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC [HD]" tvg-logo="" group-title="DOCUMENTALES",TLC [HD]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34243.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC.[HD]" tvg-logo="" group-title="DOCUMENTALES",TLC.[HD]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34242.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT [HD]" tvg-logo="" group-title="CINE Y SERIES",TNT [HD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34240.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD [Dual audio]" tvg-logo="" group-title="CINE Y SERIES",TNT HD [Dual audio]
@@ -989,8 +1035,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15022.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15021.ts
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES",Discovery Theater
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15020.ts
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DiscoveryTlc" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="DOCUMENTALES",DiscoveryTlc
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15019.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryTurbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES",DiscoveryTurbo
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15018.ts
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="DOCUMENTALES",Discovery World
@@ -1431,10 +1476,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85304.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14899.ts
 #EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="Maschic [SD]" tvg-logo="http://vocatic.com/wp-content/uploads/2011/07/TheMashUp1.jpg" group-title="MUSICA",Maschic [SD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85303.ts
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="Mtv. (1080)" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/08/MTV-HD.jpg" group-title="MUSICA",Mtv. (1080)
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85515.ts
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV [SD]" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/mtv.jpg" group-title="MUSICA",MTV [SD]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85305.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV Hits [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/493px-MTV_HITS_logo.svg.png" group-title="MUSICA",MTV Hits [SD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85307.ts
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1024px-MTV_Live.svg.png" group-title="MUSICA",MTV Live [SD]
@@ -1495,10 +1537,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84056.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84072.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC:MI MUSICA FHD" tvg-logo="http://condista.com/wp-content/uploads/2015/09/mi-musica-300x225.jpg" group-title="MUSICA",MUSIC:MI MUSICA FHD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84077.ts
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV (FR)" tvg-logo="" group-title="MUSICA",MUSIC:MTV (FR)
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84054.ts
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV (SP)" tvg-logo="" group-title="MUSICA",MUSIC:MTV (SP)
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84053.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV Base HD" tvg-logo="" group-title="MUSICA",MUSIC:MTV Base HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84052.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV Classic" tvg-logo="" group-title="MUSICA",MUSIC:MTV Classic
@@ -1529,8 +1568,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84041.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84040.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV Music (UK)" tvg-logo="" group-title="MUSICA",MUSIC:MTV Music (UK)
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84039.ts
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV NEWS HD" tvg-logo="" group-title="MUSICA",MUSIC:MTV NEWS HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84071.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV PORTUGAL" tvg-logo="" group-title="MUSICA",MUSIC:MTV PORTUGAL
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84038.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV PORTUGAL (PT)" tvg-logo="" group-title="MUSICA",MUSIC:MTV PORTUGAL (PT)
@@ -4049,8 +4087,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72576.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72469.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA : THE FLORIDA CHANNEL" tvg-logo="" group-title="USA PREMIUM",USA : THE FLORIDA CHANNEL
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72616.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA : TLC HD" tvg-logo="" group-title="USA PREMIUM",USA : TLC HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72602.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA : TNT HD" tvg-logo="" group-title="USA PREMIUM",USA : TNT HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72590.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA : Travel Channel HD 1080P-" tvg-logo="" group-title="USA PREMIUM",USA : Travel Channel HD 1080P-
@@ -4335,8 +4372,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/86435.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/86434.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAN-THE SHOPPING CHANNEL HD" tvg-logo="" group-title="CANADA",CAN-THE SHOPPING CHANNEL HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/86433.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAN-TLC HD" tvg-logo="" group-title="CANADA",CAN-TLC HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/86432.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CAN-TREEHOUSE HD" tvg-logo="" group-title="CANADA",CAN-TREEHOUSE HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/86431.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAN-TSN 1 HD" tvg-logo="" group-title="CANADA",CAN-TSN 1 HD
@@ -4765,12 +4801,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16742.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16607.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Tiny Pop   1" tvg-logo="" group-title="UK",UK: Tiny Pop   1
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16743.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: TLC" tvg-logo="" group-title="UK",UK: TLC
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16744.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: TLC   1" tvg-logo="" group-title="UK",UK: TLC   1
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16745.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: TLC   2" tvg-logo="" group-title="UK",UK: TLC   2
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16746.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: Travel Channel" tvg-logo="" group-title="UK",UK: Travel Channel
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16747.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: True Movies 2" tvg-logo="" group-title="UK",UK: True Movies 2

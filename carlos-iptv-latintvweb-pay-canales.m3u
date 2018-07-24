@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTALES",InvestigationDiscovery
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15014.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Investigation Discovery HD [Dual Audio]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75883.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Investigation Discovery Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Investigation Discovery Full HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82037.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Investigation Discovery HD" tvg-logo="" group-title="DOCUMENTALES",CO: Investigation Discovery HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82036.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery Full HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Investigation Discovery Full HD [Dual Audio]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75919.ts
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Discovery Investigation(1080)." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DOCUMENTALES",Discovery Investigation(1080).
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14878.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA : Investigation Discovery" tvg-logo="" group-title="USA PREMIUM",USA : Investigation Discovery
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72586.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Investigation Discovery" tvg-logo="" group-title="UK",UK: Investigation Discovery
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16653.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC:MTV NEWS HD" tvg-logo="" group-title="MUSICA",MUSIC:MTV NEWS HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/84071.ts
 
@@ -558,8 +582,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14880.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75920.ts
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home&Health(1080)." tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549" group-title="DOCUMENTALES",Discovery Home&Health(1080).
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14879.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Discovery Investigation(1080)." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DOCUMENTALES",Discovery Investigation(1080).
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14878.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Kids Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75916.ts
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids(1080)." tvg-logo="https://i.ytimg.com/vi/eAOEVnRizOo/maxresdefault.jpg" group-title="INFANTILES",Discovery Kids(1080).
@@ -582,8 +605,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75909.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75912.ts
 #EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History(1080)." tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="DOCUMENTALES",History(1080).
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14872.ts
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery Full HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Investigation Discovery Full HD [Dual Audio]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75919.ts
+
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Nat geo. (1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTALES",Nat geo. (1080)
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72449.ts
 #EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="Nat geo wild. (1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES",Nat geo wild. (1080)
@@ -659,10 +681,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82043.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82042.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: H2" tvg-logo="" group-title="DOCUMENTALES",CO: H2
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82141.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO: Investigation Discovery Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Investigation Discovery Full HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82037.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO: Investigation Discovery HD" tvg-logo="" group-title="DOCUMENTALES",CO: Investigation Discovery HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82036.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CO: Max Prime Full HD" tvg-logo="" group-title="CINE Y SERIES",CO: Max Prime Full HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82035.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: Max Prime HD" tvg-logo="" group-title="CINE Y SERIES",CO: Max Prime HD
@@ -882,8 +901,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75902.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34280.ts
 #EXTINF:-1 tvg-id="" tvg-name="History HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",History HD [Dual audio]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75878.ts
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Investigation Discovery HD [Dual Audio]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75883.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ISAT_ [HD]" tvg-logo="" group-title="CINE Y SERIES",ISAT_ [HD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34276.ts
 #EXTINF:-1 tvg-id="" tvg-name="LFOX SERIES [HD]" tvg-logo="" group-title="DOCUMENTALES",LFOX SERIES [HD]
@@ -1042,8 +1060,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15018.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15017.ts
 #EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History" tvg-logo="https://blogs.studyinsweden.se/wp-content/uploads/2016/02/1123676.jpg" group-title="DOCUMENTALES",History
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15015.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTALES",InvestigationDiscovery
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15014.ts
+
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Natgeo" tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2011/12/national_geographic_logo_a_h.jpg" group-title="DOCUMENTALES",Natgeo
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15013.ts
 #EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="DOCUMENTALES",NatGeoWild
@@ -3927,8 +3944,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72585.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72490.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA : IFC HD 1080P-" tvg-logo="" group-title="USA PREMIUM",USA : IFC HD 1080P-
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72489.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA : Investigation Discovery" tvg-logo="" group-title="USA PREMIUM",USA : Investigation Discovery
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72586.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA : ION Television East HD" tvg-logo="" group-title="USA PREMIUM",USA : ION Television East HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/72608.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA : KCAL 9  [HD]" tvg-logo="http://static.ontvtonight.com/static/2/Open/SourceLogos/Cleared%20Logos/KCAL-HD.jpg" group-title="USA PREMIUM",USA : KCAL 9  [HD]
@@ -4669,8 +4685,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16672.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16711.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Inspiration" tvg-logo="" group-title="UK",UK: Inspiration
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16654.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Investigation Discovery" tvg-logo="" group-title="UK",UK: Investigation Discovery
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16653.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: ITV ENCORE" tvg-logo="" group-title="UK",UK: ITV ENCORE
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16652.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: ITV1" tvg-logo="" group-title="UK",UK: ITV1

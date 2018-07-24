@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E!(1080)." tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",E!(1080).
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14904.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="E! [HD]" tvg-logo="" group-title="MEXICO",E! [HD]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34308.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiments." tvg-logo="" group-title="MEXICO",E! Entertaiments.
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/83956.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="E! HD." tvg-logo="" group-title="MEXICO",E! HD.
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/83982.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK | E!" tvg-logo="" group-title="UK",UK | E!
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16554.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: E!" tvg-logo="" group-title="UK",UK: E!
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16699.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: E!    1" tvg-logo="" group-title="UK",UK: E! 1
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16700.ts
+
 #EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTALES",InvestigationDiscovery
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15014.ts
 
@@ -1884,14 +1905,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/83983.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85232.ts
 #EXTINF:-1 tvg-id="" tvg-name="DW [SD]" tvg-logo="" group-title="MEXICO",DW [SD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85231.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! [HD]" tvg-logo="" group-title="MEXICO",E! [HD]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34308.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiments." tvg-logo="" group-title="MEXICO",E! Entertaiments.
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/83956.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! HD." tvg-logo="" group-title="MEXICO",E! HD.
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/83982.ts
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E!(1080)." tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",E!(1080).
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14904.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="El Financiero Bloomberg [SD]" tvg-logo="" group-title="MEXICO",El Financiero Bloomberg [SD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/85230.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet [SD]" tvg-logo="" group-title="MEXICO",El Gourmet [SD]
@@ -4499,8 +4513,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16551.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16552.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK | Drama" tvg-logo="" group-title="UK",UK | Drama
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16553.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK | E!" tvg-logo="" group-title="UK",UK | E!
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16554.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK | E4" tvg-logo="" group-title="UK",UK | E4
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16555.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK | Film 4" tvg-logo="" group-title="UK",UK | Film 4
@@ -4641,10 +4654,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16696.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16697.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Disney XD   1" tvg-logo="" group-title="UK",UK: Disney XD   1
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16698.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: E!" tvg-logo="" group-title="UK",UK: E!
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16699.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: E!    1" tvg-logo="" group-title="UK",UK: E!    1
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16700.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports1" tvg-logo="" group-title="UK",UK: Eir Sports1
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16701.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports2" tvg-logo="" group-title="UK",UK: Eir Sports2

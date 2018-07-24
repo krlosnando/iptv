@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home&He" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" group-title="DOCUMENTALES",Discovery Home&He
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15022.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HH [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY HH [HD]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34320.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Home and Health HD [Dual Audio]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75881.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Home and Health Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Home and Health Full HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82079.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Home and Health HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Home and Health HD
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82078.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health Full HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Home and Health Full HD [Dual Audio]
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75920.ts
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home&Health(1080)." tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549" group-title="DOCUMENTALES",Discovery Home&Health(1080).
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14879.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK | Home & Health" tvg-logo="" group-title="UK",UK | Home & Health
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16559.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Home&Health   1" tvg-logo="" group-title="UK",UK: Home&Health   1
+http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16709.ts
+
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E!(1080)." tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="MEXICO",E!(1080).
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14904.ts
 
@@ -599,10 +626,6 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14881.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75914.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel(1080)." tvg-logo="https://www.blogcdn.com/www.engadget.com/media/2008/04/discoveryhd_newlogo_042008.jpg" group-title="DOCUMENTALES",Discovery Channel(1080).
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14880.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health Full HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Home and Health Full HD [Dual Audio]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75920.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home&Health(1080)." tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549" group-title="DOCUMENTALES",Discovery Home&Health(1080).
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/14879.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Full HD [Dual audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Kids Full HD [Dual audio]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75916.ts
@@ -651,10 +674,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82084.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82081.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Channel HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Channel HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82080.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Home and Health Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Home and Health Full HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82079.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Home and Health HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Home and Health HD
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82078.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Kids Full HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Kids Full HD
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/82063.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Kids HD" tvg-logo="" group-title="DOCUMENTALES",CO: Discovery Kids HD
@@ -793,10 +813,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34322.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75873.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY CIVILIZATION [HD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34321.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HH [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY HH [HD]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health HD [Dual Audio]" tvg-logo="" group-title="DOCUMENTALES",Discovery Home and Health HD [Dual Audio]
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/75881.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID [HD]" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY ID [HD]
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/34319.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS [HD]" tvg-logo="" group-title="INFANTILES",DISCOVERY KIDS [HD]
@@ -1068,8 +1085,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15024.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15016.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DiscoveryChannel" tvg-logo="http://expedite-consulting.com/wp-content/uploads/2016/05/discovery-channel-1024x768.png" group-title="DOCUMENTALES",DiscoveryChannel
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15023.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home&He" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" group-title="DOCUMENTALES",Discovery Home&He
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15022.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryScience" tvg-logo="http://images.mi.tv/channels/ar_discovery-science_m.png" group-title="DOCUMENTALES",DiscoveryScience
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/15021.ts
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES",Discovery Theater
@@ -4522,8 +4538,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16556.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16557.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK | Good Food" tvg-logo="" group-title="UK",UK | Good Food
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16558.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK | Home & Health" tvg-logo="" group-title="UK",UK | Home & Health
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16559.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK | Irish Tv" tvg-logo="" group-title="UK",UK | Irish Tv
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16560.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK | ITV be" tvg-logo="" group-title="UK",UK | ITV be
@@ -4683,8 +4698,7 @@ http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16755.ts
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16611.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: History  1" tvg-logo="" group-title="UK",UK: History  1
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16708.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Home&Health   1" tvg-logo="" group-title="UK",UK: Home&Health   1
-http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16709.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: Horror Channel" tvg-logo="" group-title="UK",UK: Horror Channel
 http://tv.latintvweb.com:8000/live/LTN576/yv3jmMP0f0/16528.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: Horror Channel   1" tvg-logo="" group-title="UK",UK: Horror Channel   1
